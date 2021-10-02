@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F8D2A3CD270848F40055CDCF /* CircularProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D2A3CC270848F40055CDCF /* CircularProgressBarView.swift */; };
 		F8FE8A2D27060CF0009E366A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8FE8A2C27060CF0009E366A /* AppDelegate.swift */; };
 		F8FE8A2F27060CF0009E366A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8FE8A2E27060CF0009E366A /* SceneDelegate.swift */; };
 		F8FE8A3127060CF0009E366A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8FE8A3027060CF0009E366A /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F8D2A3CC270848F40055CDCF /* CircularProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressBarView.swift; sourceTree = "<group>"; };
 		F8FE8A2927060CF0009E366A /* HomeworkTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeworkTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8FE8A2C27060CF0009E366A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F8FE8A2E27060CF0009E366A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				F8FE8A3527060CF3009E366A /* Assets.xcassets */,
 				F8FE8A3727060CF3009E366A /* LaunchScreen.storyboard */,
 				F8FE8A3A27060CF3009E366A /* Info.plist */,
+				F8D2A3CC270848F40055CDCF /* CircularProgressBarView.swift */,
 			);
 			path = HomeworkTime;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				F8FE8A3127060CF0009E366A /* ViewController.swift in Sources */,
 				F8FE8A2D27060CF0009E366A /* AppDelegate.swift in Sources */,
+				F8D2A3CD270848F40055CDCF /* CircularProgressBarView.swift in Sources */,
 				F8FE8A2F27060CF0009E366A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,6 +291,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8R6U7LPYDY;
 				INFOPLIST_FILE = HomeworkTime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -305,6 +310,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8R6U7LPYDY;
 				INFOPLIST_FILE = HomeworkTime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
